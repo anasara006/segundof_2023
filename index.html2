@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>As Doenças Mentais</title>
+    <link rel="stylesheet" href="estilo.css">
+</head>
+<body>
+</head>
+<body>
+    <header>
+        <h2>Transtornos Mentais</h2>
+    </header>
+    <section>
+            <nav id="menu-h">
+                <ul>
+                    <li><a href="index.html">Depressão</a></li>
+                    <li><a href="index.html">Ansiedade</a></li>
+                    <li><a href="index.html">TDAH</a></li>
+                    <li><a href="index.html">Esquisofrenia</a></li>
+                    <li><a href="index.html">Síndrome da Alice no País das Maravilhas</a></li>
+                    <li><a href="index.html">Borderline.</a></li>
+                    <li><a href="index.html">TOC</a></li>
+
+
+                </ul>
+            </nav>
+        <article>
+             <section id="ansiedade">
+            <h2>Ansiedade</h2>
+            <p>A ansiedade é uma reação normal do organismo a situações de estresse, mas quando se torna excessiva e persistente, pode se tornar uma doença mental. Os sintomas incluem preocupação excessiva, medo intenso, irritabilidade, insônia, entre outros.</p>
+            <p>Dicas de ajuda para a ansiedade:</p>
+            <ul>
+                <li>Identifique e tente evitar os gatilhos de ansiedade;</li>
+                <li>Pratique técnicas de relaxamento, como a respiração profunda e o relaxamento muscular;</li>
+                <li>Exercite-se regularmente;</li>
+                <li>Estabeleça uma rotina de sono adequada;</li>
+                <li>Busque apoio de amigos e familiares;</li>
+                <li>Considere a possibilidade de terapia cognitivo-comportamental;</li>
+                <li>Evite o consumo excessivo de cafeína e outras substâncias estimulantes;</li>
+                <li>Aprenda a lidar com pensamentos negativos e distorcidos;</li
+
+
+
+            </ul>
+        </section>  
+        </article>
+    </section>
+
+    <footer>
+        <p>Footer</p>
+    </footer>
+    
+</body>
+</html>
